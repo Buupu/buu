@@ -1,0 +1,22 @@
+{
+  "name": "buu",
+  "displayName": "Buu",
+  "description": "Buu theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "publisher": "buupu",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Buu",
+        "uiTheme": "vs",
+        "path": "./themes/Buu-color-theme.json"
+      }
+    ]
+  }
+}
