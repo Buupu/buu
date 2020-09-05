@@ -7,6 +7,7 @@
     "vscode": "^1.48.0"
   },
   "publisher": "buupu",
+  "repository": "https://github.com/Buupu/buu",
   "categories": [
     "Themes"
   ],
